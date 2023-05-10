@@ -1,5 +1,5 @@
 class Manoj{
-public Static void main(String []args){
+public static void main(String []args){
 System.out.printlin("hello Pratik");
 }
 }
